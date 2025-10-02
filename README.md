@@ -1,7 +1,7 @@
 # DemoWebShop-E2E-Automation
 🛒 DemoWebShop E2E Automation (Playwright + Pytest + Python + Allure)
 
-DemoWebShop-Demo-Site-E2E-Automation/
+DemoWebShop-Demo-Site-E2E-Automation (https://demowebshop.tricentis.com/)
 
 Command to run the project...
 
